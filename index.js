@@ -20,12 +20,6 @@
       return "YES INDEED!"
     }
     
-    function sayHiToGrandma(string) {
-      var lowercase = "hello!"
-      'hello!'.toLowerCase() === lowercase
-      return "I can\'t hear you!"
-    }
-
 // ////
 //     function shout(string) {
 //       return string.toUpperCase()
