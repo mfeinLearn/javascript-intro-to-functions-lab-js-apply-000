@@ -16,16 +16,13 @@
     
     function sayHiToGrandma(string) {
       var uppercase = "HELLO!"
-      if (uppercase.toUpperCase() === uppercase)
-      return "YES INDEED!"
-    } else {
-      return "I can\'t hear you!"
-    }
-    
-    function sayHiToGrandma(string) {
       var lowercase = "hello!"
-      lowercase.toLowerCase() === lowercase
-
+      
+      if (uppercase.toUpperCase() === uppercase) {
+      return "YES INDEED!";
+      } else if (lowercase.toLowerCase() === lowercase ) {
+        return "I can\'t hear you!";
+      }
     }
 
     // function shout(string) {
