@@ -19,7 +19,7 @@
       string.toUpperCase() === string
       return "YES INDEED!"
       
-      string = "HELLO!"
+      string = "hello!"
       string.toLowerCase() === string
       return "YES INDEED!"
       
