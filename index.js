@@ -16,11 +16,11 @@
       console.log(string.toLowerCase())
     }
     
-    function sayHiToGrandma(string) {
-      var uppercase = "HELLO!"
-      uppercase.toUpperCase() === uppercase
-      return "YES INDEED!"
-    }
+    // function sayHiToGrandma(string) {
+    //   var uppercase = "HELLO!"
+    //   uppercase.toUpperCase() === uppercase
+    //   return "YES INDEED!"
+    // }
     
     function sayHiToGrandma(string) {
       return string.toUpperCase() === "YES INDEED!"
