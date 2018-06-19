@@ -19,8 +19,8 @@
       string.toUpperCase() === string
       return "YES INDEED!"
       
-      string = "hello!"
-      string.toLowerCase() === string
+      string1 = "hello!"
+      string1.toLowerCase() === string1
       return "I can't hear you!"
       
     }
