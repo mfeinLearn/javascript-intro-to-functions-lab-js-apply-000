@@ -19,7 +19,7 @@
       uppercase.toUpperCase() === uppercase
       return "YES INDEED!"
       
-      string = "hello!"
+      var lowercase = 'hello!'
       string.toLowerCase() === string
       return "I can't hear you!"
       
