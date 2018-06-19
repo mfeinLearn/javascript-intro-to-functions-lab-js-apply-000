@@ -7,5 +7,5 @@
     }
     
     function logShout(string) {
-      return console.log().toUpperCase()
+      return console.log("string").toUpperCase()
     }
