@@ -21,6 +21,6 @@
       
       string = "hello!"
       string.toLowerCase() === string
-      return "YES INDEED!"
+      return "I can't hear you!"
       
     }
