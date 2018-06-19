@@ -20,7 +20,7 @@
       return "YES INDEED!"
       
       var lowercase = 'hello!'
-      lowercase.toLowerCase() === string
+      lowercase.toLowerCase() === lowercase
       return "I can't hear you!"
       
     }
